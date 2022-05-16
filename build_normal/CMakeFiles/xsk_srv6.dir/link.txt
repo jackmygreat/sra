@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/xsk_srv6.dir/main.c.o  -o xsk_srv6  common/libcommon_lib.a fib/libfib_lib.a -lbpf -lpthread -lglib-2.0 

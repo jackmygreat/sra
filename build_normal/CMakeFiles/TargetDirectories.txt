@@ -1,0 +1,9 @@
+/home/oem/zbs/xsk_srv6/build_normal/CMakeFiles/edit_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/CMakeFiles/rebuild_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/CMakeFiles/xsk_srv6.dir
+/home/oem/zbs/xsk_srv6/build_normal/common/CMakeFiles/rebuild_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/common/CMakeFiles/edit_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/common/CMakeFiles/common_lib.dir
+/home/oem/zbs/xsk_srv6/build_normal/fib/CMakeFiles/rebuild_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/fib/CMakeFiles/edit_cache.dir
+/home/oem/zbs/xsk_srv6/build_normal/fib/CMakeFiles/fib_lib.dir

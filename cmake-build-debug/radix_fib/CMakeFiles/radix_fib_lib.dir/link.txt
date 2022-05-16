@@ -1,0 +1,2 @@
+/usr/bin/ar qc libradix_fib_lib.a CMakeFiles/radix_fib_lib.dir/arp_table.c.o CMakeFiles/radix_fib_lib.dir/function.c.o CMakeFiles/radix_fib_lib.dir/radix.c.o CMakeFiles/radix_fib_lib.dir/radix_fib.c.o
+/usr/bin/ranlib libradix_fib_lib.a

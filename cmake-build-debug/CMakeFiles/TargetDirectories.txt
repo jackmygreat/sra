@@ -1,0 +1,9 @@
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/CMakeFiles/xsk_srv6.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/CMakeFiles/rebuild_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/CMakeFiles/edit_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/CMakeFiles/common_lib.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/CMakeFiles/rebuild_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/CMakeFiles/edit_cache.dir
+/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/CMakeFiles/radix_fib_lib.dir

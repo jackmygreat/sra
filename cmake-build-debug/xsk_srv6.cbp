@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xsk_srv6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\common\;CMake Files\radix_fib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xsk_srv6">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/xsk_srv6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/glib-2.0"/>
+					<Add directory="/usr/local/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 xsk_srv6"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xsk_srv6/fast">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/xsk_srv6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/glib-2.0"/>
+					<Add directory="/usr/local/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 xsk_srv6/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common_lib">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/libcommon_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 common_lib"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common_lib/fast">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/libcommon_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 common_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/common/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radix_fib_lib">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/libradix_fib_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/glib-2.0"/>
+					<Add directory="/usr/local/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 radix_fib_lib"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radix_fib_lib/fast">
+				<Option output="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/libradix_fib_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/glib-2.0"/>
+					<Add directory="/usr/local/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 radix_fib_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/root/sra/xsk_srv6_46/xsk_srv6/cmake-build-debug/radix_fib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_libbpf.c">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_libbpf.h">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_params.c">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_params.h">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_user_bpf_xdp.c">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/common_user_bpf_xdp.h">
+			<Option target="common_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/main.c">
+			<Option target="xsk_srv6"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/arp_table.c">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/arp_table.h">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/function.c">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/function.h">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/radix.c">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/radix.h">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/radix_fib.c">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/radix_fib.h">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/sid.h">
+			<Option target="radix_fib_lib"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/common/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\common\"/>
+		</Unit>
+		<Unit filename="/root/sra/xsk_srv6_46/xsk_srv6/radix_fib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\radix_fib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

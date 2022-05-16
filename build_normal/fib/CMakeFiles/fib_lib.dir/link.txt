@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfib_lib.a  CMakeFiles/fib_lib.dir/arp_table.c.o CMakeFiles/fib_lib.dir/fib.c.o CMakeFiles/fib_lib.dir/function.c.o
+/usr/bin/ranlib libfib_lib.a
